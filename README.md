@@ -1,0 +1,1 @@
+# gradle-dependency-graph-generator-plugin
